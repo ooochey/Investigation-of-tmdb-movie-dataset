@@ -1,0 +1,18 @@
+List of References
+
+geeksforgeeks.org
+sparkbyexamples.com
+stackoverflow.com
+www.easytweaks.com
+www.statology.org
+www.marsja.se
+www.machinelearningplus.com
+www.w3schools.com
+medium.com
+python-forum.io
+www.tutorialspoint.com
+www.freecodecamp.org
+www.activestate.com
+sureshssarda.medium.com
+towardsdatascience.com
+www.pythontutorial.net
